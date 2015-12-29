@@ -248,7 +248,7 @@ li {
 /*==========  Media Queries  ==========*/
 
 /* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
+@media only screen and (min-device-width: 320px) and (max-device-width : 768px) {
 	.item-slide {
 		height: 600px;
 		margin: 0;
