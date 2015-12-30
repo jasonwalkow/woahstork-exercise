@@ -270,6 +270,7 @@ li {
 @media only screen and (min-device-width: 320px) and (max-device-width : 768px) {
 	body {
 		margin: 0;
+		padding-top: 0;
 	}
 	.item-slide {
 		height: 100vh;
@@ -282,7 +283,7 @@ li {
 		font-size: 2rem;
 	}
 	.store-products .store-logo {
-		width: 100%;
+		width: 50%;
 	}
 }
 
