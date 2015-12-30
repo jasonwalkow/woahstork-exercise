@@ -285,6 +285,15 @@ li {
 	.store-products .store-logo {
 		width: 50%;
 	}
+	.top-shops:after {
+	    margin-left: -3%;
+	    top: 99%;
+	    width: 0;
+	    height: 0;
+	    border-top: solid 20px #f95850;
+	    border-left: solid 20px transparent;
+	    border-right: solid 20px transparent;
+	}
 }
 
 /* Medium Devices, Desktops */
